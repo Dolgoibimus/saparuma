@@ -1,0 +1,12 @@
+img.arrow_up {
+    border: 0px none;
+    padding-bottom: 30px;
+	padding-right: 20px;
+}
+
+img.css_over {
+    opacity: 1;
+    transform: scale(1, 1);
+    transition-timing-function: ease-out;
+    transition-duration: 550ms;
+}
